@@ -1,4 +1,4 @@
 ## Exercicios passado pelo Luis
 |Exercicio|           Link             |        index        |
 |---------|----------------------------|---------------------|
-|    6    |[./script/script.js](script)|[./index.html](index)|
+|    6    |[script](./script/script.js)|[index](./index.html)|
