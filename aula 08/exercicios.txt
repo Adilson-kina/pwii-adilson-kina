@@ -1,0 +1,7 @@
+1 – Escreva um algoritmo em PHP que receba o preço de dois produtos. Calcule um desconto de 8% no primeiro produto, 11% no segundo e apresente o valor final a ser pago
+
+2 – Escreva um algoritmo em PHP que receba dois valores e exiba o intervalo entre eles. Considere sempre começar do menor para o maior
+
+3 – Escreva um algoritmo em PHP que receba uma temperatura em graus Celsius e apresente a temperatura convertida em graus Fahrenheit. Fórmula de conversão é F = (9 * C + 160) / 5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius
+
+4 – Escreva um algoritmo em PHP que receba dois números (início e fim). Se o número do início for menor que o fim, escreva os números do menor para o maior; caso contrário, do maior para o menor.
